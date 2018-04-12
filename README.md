@@ -1,0 +1,1 @@
+This assignment was to ensure that we understand how to inherit from another class.
